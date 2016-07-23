@@ -4,4 +4,3 @@ jQuery("#footer-info").text(' ');
 jQuery("<p>© 2016 Softing Consulting srl | P.Iva: 02224960696</p>").insertAfter("#footer-info");
 });
 </script>
-
