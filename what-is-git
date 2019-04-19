@@ -1,7 +1,8 @@
-Che cos'è e come funziona GitHub
-Software di controllo di versione, permette di aggiornare un file senza dover sovrascrivere le versioni precedenti. 
+Cos'è e come funziona GitHub
 
-Ecco come funziona Git e GitHub
+GitHub è un software di controllo di versione, permette di aggiornare un file senza dover sovrascrivere le versioni precedenti.
+
+Come funziona Git e GitHub
 Nata per ospitare progetti software e basata sul software open source Git (ideato e sviluppato da Linus Torvalds) GitHub è una piattaforma di hosting web. A metà strada tra un social netowrk e una repository di file (vedremo in seguito cosa sia), GitHub offre piani hosting sia a pagamento – per i progetti software privati – sia gratuiti – per i progetti software open source.
 
 Lanciata nel 2009 da Tom Preston-Werner, Chris Wanstrath e PJ Hyett, con il passare degli anni GitHub ha rivoluzionato il modo in cui si lavora sul web. Divenuta ben presto la più autorevole (e utilizzata) piattaforma per lo sviluppo collaborativo di software, oggi è utilizzata in tutti quei settori in cui è richiesto il continuo aggiornamento e salvataggio di progetti di sviluppo portati avanti da due o più professionisti. Molti, ad esempio, sfruttano le potenzialità di GitHub per collaborare con colleghi di sedi distaccate nella stesura di documenti o report; altri per scrivere la tesi di laurea senza paura di perdere tutto il lavoro svolto a causa di un black out improvviso o per un disco rigido mal funzionante.
@@ -10,8 +11,6 @@ Non ci si deve sorprendere, insomma, se GitHub ha finito con l'attirare le atten
 
 Errore di fondo
 Prima di spiegare come funzioni GitHub, quindi, c'è da correggere un errore di fondo: non si tratta di una piattaforma sociale chiusa alla comunità degli sviluppatori e dei geek. Molti credono che sia uno strumento di sviluppo paragonabile ad un compilatore o, addirittura, ad un linguaggio di programmazione. Come detto, GitHub è una piattaforma sociale dove professionisti – di ogni settore – si incontrano per collaborare a distanza su progetti di ogni genere.
-
-GitHub
 
 Come ogni altra piattaforma sociale, inoltre, GitHub permette di incontrare nuove persone e di stringere rapporti con loro. Una volta aperto un account, sarà possibile caricare progetti e lavori da condividere con gli altri utenti; spulciare nelle varie repository alla ricerca di un progetto interessante con il quale collaborare o dal quale prendere spunto; entrare in contatto con altre persone e condividere con loro progetti, idee e sogni.
 
@@ -44,7 +43,7 @@ Poco più complesso, invece, il settaggio del software Git. Dopo aver scaricato 
 
 La scelta del nome utente non richiede particolari accorgimenti. Potrà essere il nome reale, un nickname o qualsiasi altra cosa: Git non farà caso alla scelta e servirà solo per l'attribuzione dei "meriti" dei vari progetti pubblicati sulla piattaforma online. Per far questo gli utenti Windows dovranno aprire l'applicazione Git Bash appena installata, mentre gli utenti Mac potranno utilizzare il Terminale di sistema. Dalla riga di comando della finestra inserire la stringa:
 
-git config --global user.name "il tuo nome"
+git config --global user.name (http://user.name/) "il tuo nome"
 
 inserendo il nome utente scelto tra le virgolette.
 
