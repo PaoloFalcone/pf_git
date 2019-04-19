@@ -1,0 +1,55 @@
+Che cos'è e come funziona GitHub
+Software di controllo di versione, permette di aggiornare un file senza dover sovrascrivere le versioni precedenti. 
+
+Ecco come funziona Git e GitHub
+Nata per ospitare progetti software e basata sul software open source Git (ideato e sviluppato da Linus Torvalds) GitHub è una piattaforma di hosting web. A metà strada tra un social netowrk e una repository di file (vedremo in seguito cosa sia), GitHub offre piani hosting sia a pagamento – per i progetti software privati – sia gratuiti – per i progetti software open source.
+
+Lanciata nel 2009 da Tom Preston-Werner, Chris Wanstrath e PJ Hyett, con il passare degli anni GitHub ha rivoluzionato il modo in cui si lavora sul web. Divenuta ben presto la più autorevole (e utilizzata) piattaforma per lo sviluppo collaborativo di software, oggi è utilizzata in tutti quei settori in cui è richiesto il continuo aggiornamento e salvataggio di progetti di sviluppo portati avanti da due o più professionisti. Molti, ad esempio, sfruttano le potenzialità di GitHub per collaborare con colleghi di sedi distaccate nella stesura di documenti o report; altri per scrivere la tesi di laurea senza paura di perdere tutto il lavoro svolto a causa di un black out improvviso o per un disco rigido mal funzionante.
+
+Non ci si deve sorprendere, insomma, se GitHub ha finito con l'attirare le attenzioni dei grandi nomi dell'hi-tech. Un'attenzione sfociata nell'acquisizione, datata giugno 2018, da parte di Microsoft. Il colosso di Redmond ha staccato un assegno di 7,5 miliardi di dollari per accaparrarsi gli oltre 60 milioni di depositi di codice utilizzati da oltre 40 milioni di utenti in tutto il mondo. Certo, la decisione non è stata proprio ben digerita dalla community di sviluppatori open source che utilizza GitHub, ma è probabile che i vertici della piattaforma abbiano ricevuto delle adeguate rassicurazioni su quello che sarà il loro futuro.
+
+Errore di fondo
+Prima di spiegare come funzioni GitHub, quindi, c'è da correggere un errore di fondo: non si tratta di una piattaforma sociale chiusa alla comunità degli sviluppatori e dei geek. Molti credono che sia uno strumento di sviluppo paragonabile ad un compilatore o, addirittura, ad un linguaggio di programmazione. Come detto, GitHub è una piattaforma sociale dove professionisti – di ogni settore – si incontrano per collaborare a distanza su progetti di ogni genere.
+
+GitHub
+
+Come ogni altra piattaforma sociale, inoltre, GitHub permette di incontrare nuove persone e di stringere rapporti con loro. Una volta aperto un account, sarà possibile caricare progetti e lavori da condividere con gli altri utenti; spulciare nelle varie repository alla ricerca di un progetto interessante con il quale collaborare o dal quale prendere spunto; entrare in contatto con altre persone e condividere con loro progetti, idee e sogni.
+
+Così, mentre la gran parte degli utenti utilizzerà GitHub per mettere in mostra i propri progetti software – come fatto, ad esempio, dal giovanissimo programmatore italiano Gabriele Cirulli con il suo 2048 – altri la sfrutteranno per salvare documenti di testo, fogli di lavoro Excel, foto e molto altro ancora.
+
+Che cos'è Git
+Per capire cosa sia GitHub e come funzioni, sarà necessario capire innanzitutto cos'è Git, cuore pulsante della piattaforma web. Creato dal papà di Linux Linus Torvalds, Git è un software di controllo di versione: ciò vuol dire che controlla e gestisce gli aggiornamenti di un progetto senza sovrascrivere nessuna parte del progetto stesso. Venne creato da Torvalds e dai suoi collaboratori nel corso dello sviluppo del kernel Linux: nel caso in cui qualche aggiornamento non avesse dato gli effetti sperati, si poteva sempre tornare indietro e recuperare la versione funzionante senza troppi problemi.
+
+In GitHub questi concetti e queste pratiche sono state portate all'estremo, applicandole su un campione molto più ampio e in ambiti più disparati. Grazie a Git, gli utenti della piattaforma social creata da Tom Preston-Werner, Chris Wanstrath e PJ Hyett potranno lavorare contemporaneamente sulla medesima versione dello stesso progetto senza timore di apportare modifiche sostanziali. Tutte le vecchie versioni saranno conservate nella propria repository, così da poterle recuperare in caso di necessità. Inoltre, per ogni utente al lavoro verrà creata una differente versione del progetto, così da non creare fastidiose sovrapposizioni o sovrascritture.
+
+Le parole più usate in GitHub
+Arrivato alla soglia dei cinque anni di vita, GitHub è diventato un immenso mare magnum con oltre 10 milioni di progetti. Nonostante ciò, alcune parole chiave sono utilizzate con continuità e sono divenute, con il tempo, veri e propri mantra della community.
+
+Tra i più utilizzati troviamo linea di comando, ovvero l'interfaccia grafica con la quale l'utente si relaziona con Git grazie alla quale è possibile assegnare comandi e specifiche al programma; la repository (abbreviata spesso e volentieri con repo) è una cartella o uno spazio su disco rigido dove ospitare e far "proliferare" i progetti di sviluppo software e altro; la versione di controllo (version control in inglese), come già detto, è il cuore pulsante e funzionale di Git e GitHub: questo meccanismo permette di gestire la continua evoluzione dei documenti digitali (come il codice sorgente di un programma) creando un nuovo file per ogni modifica apportata e identificando la nuova versione con un numero progressivo; Commit è il comando base dii GitHub e serve a "scattare un'istantanea" della propria repository per "posare" una pietra miliare all'interno del proprio progetto di sviluppo; il branch o ramo si crea quando un utente decide di personalizzare un progetto già esistente e crea una propria repository dove ospitare le modifiche a quello stesso progetto.
+
+I comandi più utilizzati in GitHub
+Ci sonoalcuni comandi indispensabili per poter sfruttare a pieno le capacità e le funzionalità della piattaforma.
+
+Con git init, ad esempio, si darà il via ad una nuova repository; git config servirà per la prima configurazione del progetto; git help servirà nel caso in cui ci sia dimenticati il comando specifico per un'azione: inserendo questa stringa da riga di comando saranno mostrati i 21 comandi più comuni; git status mostra lo stato di una determinata repository: quali file vi sono contenuti, quali modifiche sono ancora da apportare e su quale branch si sta lavorando in quel momento; di git commit ne abbiamo parlato in precedenza, rappresenta forse il comando più importante della piattaforma perché in qualche modo sancisce la fine di una fase di sviluppo e conduce ad una nuova, e si suppone migliore, versione di un progetto; git branch permetterà di creare un nuovo branch all'interno di una repository, così da crearne una propria versione e poter lavorare sui vari file senza disturbare gli altri collaboratori; git merge, invece, permette di fondere un branch con la repository madre, così da implementare le modifiche apportate ai file e alle cartelle originarie; git push viene utilizzato nel caso si stia lavorando ad un progetto in locale, sul proprio computer, e si vogliano pubblicare i risultati online, sulla piattaforma di sviluppo; git pull permetterà di compiere l'azione inversa: scaricare da GitHub la versione più aggiornata del progetto per poterci poi lavorare offline.
+
+Le Actions di GitHub
+Per facilitare la vita ai propri utenti e agli sviluppatori in genere, GitHub ha recentemente rilasciato una nuova funzionalità che dovrebbe consentire di automatizzare alcune delle operazioni che vengono compiute con maggior frequenza sulla piattaforma. Chiamate Actions (Azioni, in italiano), sono state definite da alcuni analisti di settore come una sorta di If This Than That della programmazione. Ma, esattamente, cosa sono le Actions di GitHub?
+
+Come dice anche il nome, si tratta di un set di istruzioni che ogni utente può impostare all'interno del proprio account e che consentono di svolgere (in maniera autonoma) le azioni più svariate. Qualche esempio? Con le azioni Github si potrà impostare un allarme automatico ogni qualvolta un utente dovesse rilasciare un commento all'interno della nostra repository di codice. Oppure è possibile automatizzare la "costruzione" di software e il loro rilascio pubblico ogni volta che viene aggiunto un nuovo pacchetto al repository. In questo modo non ci si dovrà preoccupare di comporre i vari "pezzettini" de puzzle alla fine dello sviluppo, ma saranno le stesse azioni della piattaforma a occuparsene in maniera automatica.
+
+Come impostare e utilizzare Git e GitHub
+Prima di tutto ci sarà bisogno di creare un account su GitHub. Non si tratta di un'azione particolarmente complessa: come in ogni altro social network si dovrà inserire il proprio nome utente, i propri dati e scegliere una password.
+
+Poco più complesso, invece, il settaggio del software Git. Dopo aver scaricato l'ultima versione per il proprio sistema operativo – disponibile per Windows, OS X e Linux – ci sarà da impostare nome utente e indirizzo di posta elettronica.
+
+La scelta del nome utente non richiede particolari accorgimenti. Potrà essere il nome reale, un nickname o qualsiasi altra cosa: Git non farà caso alla scelta e servirà solo per l'attribuzione dei "meriti" dei vari progetti pubblicati sulla piattaforma online. Per far questo gli utenti Windows dovranno aprire l'applicazione Git Bash appena installata, mentre gli utenti Mac potranno utilizzare il Terminale di sistema. Dalla riga di comando della finestra inserire la stringa:
+
+git config --global user.name "il tuo nome"
+
+inserendo il nome utente scelto tra le virgolette.
+
+L'indirizzo di posta elettronica, invece, dovrà essere lo stesso utilizzato in fase di registrazione. In tal caso il comando da dare sarà:
+
+git config --global user.email "your_email@youremail.com"
+
+inserendo l'indirizzo tra le virgolette. Per evitare di inserire il nome utente e la password dell'account GitHub ogniqualvolta che si lancia Git, basta utilizzare il credential helper incluso in Git dalla versione 1.7.10 in poi.
